@@ -1,6 +1,6 @@
 # Bazaar-CaseStudy
 This is a case study I performed on 2 datasets for a company's sales Data
-# 📊 Case Study: Data Analytics Internship Challenge
+# 📊 Case Study: Data Analytics Challenge
 
 ## 🧠 Overview
 
@@ -26,11 +26,14 @@ This case study was completed as part of an internship application process for a
 
 📂 case-study-data-project/
 │
-├── 📊 Presentation.pdf # Final submitted slides
-├── 📈 Presentation.pptx # Editable PowerPoint version
-├── 📂 python_notebooks/ # Jupyter notebooks for EDA & viz
-│ └── analysis.ipynb
+├── 📊 Final_Case_Study.pdf # Final submitted slides
+├── 📈 FInal_Case_Study.pptx # Editable PowerPoint version
+├── 📂 Viz/ # Visualization JPEG files
+│ └── #JPEG Files of Visualizations
+├── 📄 MySqlCaseStudyFile.sql # MySql file for queries run
+├── 📄 VisualizationPythonFile.ipynb # Python file for visualizations
 ├── 📄 README.md # This file
+
 
 
 > ⚠️ *Note: Any sensitive data has been anonymized or excluded to maintain privacy and confidentiality.*
